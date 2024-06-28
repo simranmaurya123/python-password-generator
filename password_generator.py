@@ -1,4 +1,3 @@
-# python password generator
 
 import random
 import string
@@ -17,3 +16,15 @@ while True:
         break
     else:
         print("Invalid input. Please type 'yes' to generate a password.")
+
+
+
+
+
+
+    
+
+
+
+    
+
