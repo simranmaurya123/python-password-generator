@@ -7,7 +7,7 @@ The Python Password Generator is a simple yet powerful tool designed to create r
 
 ## DOWNLOAD
 
- [x] To download python refer to this link [https://www.python.org/downloads/](https://www.python.org/downloads/)
+ - [x] To download python refer to this link [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 - For Windows (https://www.python.org/ftp/python/3.12.4/python-3.12.4-amd64.exe)
   
