@@ -1,2 +1,3 @@
 # python-password-generator
-a password genrator
+
+This repo contains a  random password generator code 
