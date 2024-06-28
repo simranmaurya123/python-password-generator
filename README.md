@@ -17,7 +17,7 @@ The Python Password Generator is a simple yet powerful tool designed to create r
 
 ## Getting Started
 ### Prerequisites
-- Python 3.x installed on your system.Getting Started
+- Python 3.x installed on your system.
 
 ### INSTALLATION
 - Clone the repository to your local machine
