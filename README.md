@@ -1,3 +1,5 @@
-# python-password-generator
+#PYTHON
 
-This repo contains a  random password generator code 
+## python-password-generator
+
+This repository contains a  random password generator code written in python language. 
