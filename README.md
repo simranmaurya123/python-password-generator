@@ -7,7 +7,7 @@ The Python Password Generator is a simple yet powerful tool designed to create r
 
 ## DOWNLOAD
 
- - [x] To download python refer to this link [https://www.python.org/downloads/](https://www.python.org/downloads/)
+- To download python refer to this link [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 - For Windows (https://www.python.org/ftp/python/3.12.4/python-3.12.4-amd64.exe)
   
@@ -46,5 +46,4 @@ python code.py
 - Password Length: The default password length is set to 8 characters. You can change this by modifying the password_length variable in the script.
 - Character Set: The script uses a combination of uppercase and lowercase letters and digits. You can customize the character set by modifying the characters variable in the 'generate_password' function.
 
-## Contact
-For any questions or suggestions, please contact me at [simran.maurya.932@gmail.com].
+
